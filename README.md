@@ -1,4 +1,4 @@
-# Twitter Clone - React Native with Expo and React Navigation
+# Twitter Clone - Expo and React Navigation
 This project is a work-in-progress clone of the popular social media platform Twitter, built using React Native with Expo and React Navigation.
 
 ## Features:
