@@ -16,13 +16,13 @@ Expo CLI: https://docs.expo.dev/more/expo-cli/
 
 1. Clone this repository:
 ```Bash
-git clone https://github.com/your-username/twitter-clone-react-native.git
+git clone https://github.com/imparth7/twitter.git
 ```
 
 2. Install dependencies:
 ```
 Bash
-cd twitter-clone-react-native
+cd twitter
 expo install
 ```
 
