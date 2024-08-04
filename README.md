@@ -15,20 +15,18 @@ Expo CLI: https://docs.expo.dev/more/expo-cli/
 ## Getting Started:
 
 1. Clone this repository:
-```Bash
+```bash
 git clone https://github.com/imparth7/twitter.git
 ```
 
 2. Install dependencies:
-```
-Bash
+```bash
 cd twitter
 expo install
 ```
 
 3. Run the app in development mode:
-```
-Bash
+```bash
 expo start
 ```
 
